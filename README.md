@@ -6,7 +6,7 @@
 ![](https://github.com/thiagodpaulla/calculator/blob/main/calculator.gif)
 
 ## Feel free to interact with the project at the link:
-https://thiagodpaulla.github.io/Check_numbers/.
+https://thiagodpaulla.github.io/calculator/.
 
 ## Stretch a little more and, know a little more than I've been doing:
 
